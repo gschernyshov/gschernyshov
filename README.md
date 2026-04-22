@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Я Григорий</h1>
+<h1 align="center">Привет! 👋 Я Григорий Чернышов</h1>
 <p align="center">
   <strong>Fullstack-разработчик</strong> | TypeScript | React/Next.js | Node.js/NestJS | PostgreSQL | Docker
 </p>
